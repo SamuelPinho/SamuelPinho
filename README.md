@@ -1,10 +1,6 @@
 ## Hi there 👋, I'm Samuel 🤙
 
-### **Tech Lead Front End** working at **São Paulo, Brazil**
-
-<br/>
-
----
+**Tech Lead Front End** working at **São Paulo, Brazil**
 
 ## Personal Projects
 
@@ -20,8 +16,6 @@ Boilerplate to create extensions on chrome with React and Typescript, without wo
 
 Simple and easy setup for you React application with Typescript that needs to authenticate users using firebase.
 
-<br>
-
 ## Articles
 
 ### How to create a Full-Stack Application with React (pt-br)
@@ -34,15 +28,9 @@ Hitting 21.5K views since it was published.
 - [Como Criar uma Aplicação Full-Stack com React 2/3](https://medium.com/trainingcenter/construindo-uma-aplicacao-react-com-redux-1a62808eebca)
 - [Como Criar uma Aplicação Full-Stack com React 3/3](https://medium.com/trainingcenter/construindo-uma-aplica%C3%A7%C3%A3o-full-stack-com-react-a8cab03f0da2)
 
-<br>
-
----
-
 ## Contact
 
-### email: <samuelmonteiro.pinho@gmail.com>
-
-<br>
+email: <samuelmonteiro.pinho@gmail.com>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelmpinho/?locale=en_US)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samuelmonteiro)
