@@ -1,8 +1,20 @@
-## Hi there 👋, I'm Samuel 🤙
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**Tech Lead Front End** working at **São Paulo, Brazil**
+I'm **Samuel Monteiro**, currently working as **Tech Lead Front End** at **Captalys**
 
-## Personal Projects
+## 💻Tech & Tools
+
+<p>
+  <img src="https://img.icons8.com/color/24/000000/firebase.png"/>
+  <img src="https://img.icons8.com/color/24/000000/react-native.png"/>
+  <img src="https://img.icons8.com/color/24/000000/git.png"/>
+  <img src="https://img.icons8.com/color/24/000000/typescript.png"/>
+  <img src="https://img.icons8.com/color/24/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/24/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/color/24/000000/graphql.png"/>
+</p>
+
+## 🐙Personal Projects
 
 ### [Git Graph Creator](https://github.com/SamuelPinho/gitgraph-creator)
 
@@ -16,7 +28,7 @@ Boilerplate to create extensions on chrome with React and Typescript, without wo
 
 Simple and easy setup for you React application with Typescript that needs to authenticate users using firebase.
 
-## Articles
+## 🖋Articles
 
 ### How to create a Full-Stack Application with React (pt-br)
 
@@ -28,9 +40,11 @@ Hitting 21.5K views since it was published.
 - [Como Criar uma Aplicação Full-Stack com React 2/3](https://medium.com/trainingcenter/construindo-uma-aplicacao-react-com-redux-1a62808eebca)
 - [Como Criar uma Aplicação Full-Stack com React 3/3](https://medium.com/trainingcenter/construindo-uma-aplica%C3%A7%C3%A3o-full-stack-com-react-a8cab03f0da2)
 
-## Contact
+## 📍Contact
 
-email: <samuelmonteiro.pinho@gmail.com>
+**Location**: São Paulo, Brazil
+
+**E-mail**: <samuelmonteiro.pinho@gmail.com>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelmpinho/?locale=en_US)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samuelmonteiro)
