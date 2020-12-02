@@ -14,9 +14,9 @@ I'm **Samuel Monteiro**, currently working as **Tech Lead Front End** at **Capta
   <img src="https://img.icons8.com/color/24/000000/graphql.png"/>
 </p>
 
-## 🐙Personal Projects
+## 🐙 Personal Projects
 
-### [Git Graph Creator](https://github.com/SamuelPinho/gitgraph-creator)
+### [Git Graph Creator](https://git-graph-creator.netlify.app/)
 
 A simple website created with React that aims to facilitate the comprehension of a git workkflow by creating a visual git graph.
 
@@ -28,7 +28,7 @@ Boilerplate to create extensions on chrome with React and Typescript, without wo
 
 Simple and easy setup for you React application with Typescript that needs to authenticate users using firebase.
 
-## 🖋Articles
+## 🖋 Articles
 
 ### How to create a Full-Stack Application with React (pt-br)
 
@@ -40,7 +40,7 @@ Hitting 21.5K views since it was published.
 - [Como Criar uma Aplicação Full-Stack com React 2/3](https://medium.com/trainingcenter/construindo-uma-aplicacao-react-com-redux-1a62808eebca)
 - [Como Criar uma Aplicação Full-Stack com React 3/3](https://medium.com/trainingcenter/construindo-uma-aplica%C3%A7%C3%A3o-full-stack-com-react-a8cab03f0da2)
 
-## 📍Contact
+## 📍 Contact
 
 **Location**: São Paulo, Brazil
 
