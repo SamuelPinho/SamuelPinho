@@ -16,17 +16,34 @@ I'm **Samuel Monteiro**, currently working as **Tech Lead Front End** at **Capta
 
 ## 🐙 Personal Projects
 
-### [Git Graph Creator](https://git-graph-creator.netlify.app/)
+### [Chrome extension](https://chrome.google.com/webstore/detail/add-to-spotify/fbfmfpmhahghhicbcjnndadbmjojaonf)
+A chrome extension that provides an easy way to add music to your Spotify Playlists 🤙
+<p>
+  <img src="https://img.icons8.com/color/24/000000/react-native.png"/>
+  <img src="https://img.icons8.com/color/24/000000/typescript.png"/>
+</p>
 
+### [Git Graph Creator](https://git-graph-creator.netlify.app/)
 A simple website created with React that aims to facilitate the comprehension of a git workkflow by creating a visual git graph.
+<p>
+  <img src="https://img.icons8.com/color/24/000000/react-native.png"/>
+  <img src="https://img.icons8.com/color/24/000000/typescript.png"/>
+</p>
 
 ### [React chrome extension Boilerplate](https://github.com/SamuelPinho/react-chrome-ext-boilerplate)
-
 Boilerplate to create extensions on chrome with React and Typescript, without worrying with configuring them.
+<p>
+  <img src="https://img.icons8.com/color/24/000000/react-native.png"/>
+  <img src="https://img.icons8.com/color/24/000000/typescript.png"/>
+</p>
 
 ### [React Firebase Authentication Boilerplate](https://github.com/SamuelPinho/react-firebase-auth-boilerplate)
-
 Simple and easy setup for you React application with Typescript that needs to authenticate users using firebase.
+<p>
+  <img src="https://img.icons8.com/color/24/000000/firebase.png"/>
+  <img src="https://img.icons8.com/color/24/000000/react-native.png"/>
+  <img src="https://img.icons8.com/color/24/000000/typescript.png"/>
+</p>
 
 ## 🖋 Articles
 
@@ -39,6 +56,8 @@ Hitting 21.5K views since it was published.
 - [Como Criar uma Aplicação Full-Stack com React 1/3](https://medium.com/trainingcenter/construindo-uma-aplica%C3%A7%C3%A3o-full-stack-com-react-c1a64db6fc94)
 - [Como Criar uma Aplicação Full-Stack com React 2/3](https://medium.com/trainingcenter/construindo-uma-aplicacao-react-com-redux-1a62808eebca)
 - [Como Criar uma Aplicação Full-Stack com React 3/3](https://medium.com/trainingcenter/construindo-uma-aplica%C3%A7%C3%A3o-full-stack-com-react-a8cab03f0da2)
+
+### [Creating a chrome extension using the Spotify API (pt-br)](https://samuelmonteiro.medium.com/criando-uma-extens%C3%A3o-para-o-chrome-com-react-6cd974816380)
 
 ## 📍 Contact
 
