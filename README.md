@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm **Samuel Monteiro**, currently working as **Tech Lead Front End** at **Captalys**
+I'm **Samuel Monteiro**, currently working as **Tech Lead Front End** at **MediaValet**
 
 ## 💻Tech & Tools
 
